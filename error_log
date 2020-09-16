@@ -1,0 +1,49 @@
+[24-May-2020 13:52:04 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 13:52:53 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 13:54:39 Europe/istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function phpob_start() in /home/ogutcuyazilim/public_html/panel/header.php:1
+Stack trace:
+#0 /home/ogutcuyazilim/public_html/panel/index.php(1): require_once()
+#1 {main}
+  thrown in /home/ogutcuyazilim/public_html/panel/header.php on line 1
+[24-May-2020 13:54:40 Europe/istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function phpob_start() in /home/ogutcuyazilim/public_html/panel/header.php:1
+Stack trace:
+#0 /home/ogutcuyazilim/public_html/panel/index.php(1): require_once()
+#1 {main}
+  thrown in /home/ogutcuyazilim/public_html/panel/header.php on line 1
+[24-May-2020 13:54:49 Europe/istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function phpob_start() in /home/ogutcuyazilim/public_html/panel/header.php:1
+Stack trace:
+#0 /home/ogutcuyazilim/public_html/panel/index.php(1): require_once()
+#1 {main}
+  thrown in /home/ogutcuyazilim/public_html/panel/header.php on line 1
+[24-May-2020 13:54:50 Europe/istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function phpob_start() in /home/ogutcuyazilim/public_html/panel/header.php:1
+Stack trace:
+#0 /home/ogutcuyazilim/public_html/panel/index.php(1): require_once()
+#1 {main}
+  thrown in /home/ogutcuyazilim/public_html/panel/header.php on line 1
+[24-May-2020 13:54:50 Europe/istanbul] PHP Fatal error:  Uncaught Error: Call to undefined function phpob_start() in /home/ogutcuyazilim/public_html/panel/header.php:1
+Stack trace:
+#0 /home/ogutcuyazilim/public_html/panel/index.php(1): require_once()
+#1 {main}
+  thrown in /home/ogutcuyazilim/public_html/panel/header.php on line 1
+[24-May-2020 13:56:17 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 13:59:04 Europe/istanbul] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ogutcuyazilim/public_html/panel/header.php on line 2
+[24-May-2020 13:59:04 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/kategori-ekle.php:1) in /home/ogutcuyazilim/public_html/panel/header.php on line 7
+[24-May-2020 13:59:29 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 14:00:33 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 14:00:52 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 14:01:20 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 14:07:48 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 14:09:29 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 11
+[24-May-2020 14:10:04 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 10
+[24-May-2020 14:10:31 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 10
+[24-May-2020 14:11:08 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 10
+[24-May-2020 14:12:13 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 11
+[24-May-2020 14:12:22 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 11
+[24-May-2020 14:12:47 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 11
+[24-May-2020 14:13:13 Europe/istanbul] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ogutcuyazilim/public_html/panel/header.php on line 2
+[24-May-2020 14:13:13 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/kategori-ekle.php:1) in /home/ogutcuyazilim/public_html/panel/header.php on line 7
+[24-May-2020 14:13:28 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 11
+[24-May-2020 14:14:04 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/kategori-ekle.php on line 12
+[24-May-2020 14:14:49 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/urun-ekle.php on line 14
+[24-May-2020 14:31:37 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/bilet-olustur.php on line 13
+[24-May-2020 14:34:00 Europe/istanbul] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ogutcuyazilim/public_html/panel/header.php:17) in /home/ogutcuyazilim/public_html/panel/bilet-detay.php on line 21
